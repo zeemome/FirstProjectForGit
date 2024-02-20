@@ -4,4 +4,8 @@ public interface ATM {
 	public void withdraw();
 	
 	public void deposit();
+	
+	public void checkBalance();
+	
+	public void changePin();
 }
