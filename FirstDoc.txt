@@ -1,0 +1,1 @@
+This is the first file to be added and we are going to use it in all the projects as a practice set where we shall be sure that we got the right git. 
