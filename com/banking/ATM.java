@@ -8,4 +8,6 @@ public interface ATM {
 	public void checkBalance();
 	
 	public void changePin();
+=======
+
 }
